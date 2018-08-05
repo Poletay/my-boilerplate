@@ -11,6 +11,10 @@
     "eslint": "eslint",
     "babel-node": "babel-node"
   },
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/Poletay/my-boilerplate.git"
+  },
   "author": "Smirnov Aleksey",
   "license": "ISC",
   "devDependencies": {
