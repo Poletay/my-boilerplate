@@ -11,7 +11,7 @@
     "eslint": "eslint",
     "babel-node": "babel-node"
   },
-  "repository":{
+  "repository": {
     "type": "git",
     "url": "https://github.com/Poletay/my-boilerplate.git"
   },
@@ -47,13 +47,9 @@
     "koa": "^2.5.2",
     "koa-bodyparser": "^4.2.1",
     "koa-logger": "^3.2.0",
-    "koa-mount": "^3.0.0",
     "koa-pug": "^3.0.0-2",
     "koa-router": "^7.4.0",
-    "koa-session": "^5.8.2",
-    "koa-static": "^5.0.0",
-    "koa-views": "^6.1.4",
-    "lodash": "^4.17.10",
+    "koa-webpack": "^5.1.0",
     "popper.js": "^1.14.4",
     "pug": "^2.0.3",
     "react": "^16.4.2",
